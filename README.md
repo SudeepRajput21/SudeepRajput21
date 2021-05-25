@@ -20,4 +20,4 @@ I am Sudeep Rajput from India and I am passionate about Data Analytics with stro
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudeepRajput21&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudeepRajput21&hide=contribs,prs&show_icons=true&theme=great-gatsby)
