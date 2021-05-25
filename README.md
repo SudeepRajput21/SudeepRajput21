@@ -13,11 +13,14 @@ I am Sudeep Rajput from India and I am passionate about Data Analytics with stro
  - DATA VISUALIZATION
 
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SudeepRajput21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sudeeprajput//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sudeeprajput.com/)  
 
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudeepRajput21&hide=contribs,prs&show_icons=true&theme=great-gatsby)
+
+
+## My Latest Blogs
+
+ - [11 Real World Applications for Python Skills](https://www.sudeeprajput.com/post/11realworldapplicationsforpythonskills)
+ - [Data Engineer, Data Analyst, Data Scientist — What’s the Difference?](https://www.sudeeprajput.com/post/grow-your-blog-community)
