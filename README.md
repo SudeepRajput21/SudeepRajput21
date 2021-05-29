@@ -22,5 +22,7 @@ I am Sudeep Rajput from India and I am passionate about Data Analytics with stro
 
 ## My Latest Blogs
 
- - [11 Real World Applications for Python Skills](https://www.sudeeprajput.com/post/11realworldapplicationsforpythonskills)
- - [Data Engineer, Data Analyst, Data Scientist — What’s the Difference?](https://www.sudeeprajput.com/post/grow-your-blog-community)
+- [NumPy Tutorial - Things You Need to Know to Get Started](https://www.sudeeprajput.com/post/numpy-tutorial-things-you-need-to-know-to-get-started)
+- [Artificial Intelligence, Machine Learning, Deep Learning, and Data Science — What’s the Difference?](https://www.sudeeprajput.com/post/artificial-intelligence-machine-learning-deep-learning-and-data-science-what-s-the-difference)
+- [11 Real World Applications for Python Skills](https://www.sudeeprajput.com/post/11realworldapplicationsforpythonskills)
+- [Data Engineer, Data Analyst, Data Scientist — What’s the Difference?](https://www.sudeeprajput.com/post/grow-your-blog-community)
