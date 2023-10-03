@@ -6,9 +6,9 @@ I am Sudeep Rajput from India and I am passionate about Data Analytics with stro
 
 ## Skills
  - PYTHON
- - HIVE
- - SPARK
- - MACHINE LEARNING
+ - SNOWFLAKE
+ - APACHE SPARK
+ - SQL
  - LINUX
  - DATA VISUALIZATION
 
